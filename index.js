@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let request = async () => {
     let req = await fetch('https://pokeapi.co/api/v2/pokemon/ditto')
     let res = await req.json()
@@ -8,6 +7,3 @@ let request = async () => {
 
 
 request()
-=======
-
->>>>>>> nicky/link-to-new-tab
